@@ -1,0 +1,55 @@
+#mi{
+    text-align:center;
+    text-decoration:underline;
+    font-weight:bold;
+    font-size: 50px;
+    color:blueviolet;
+}
+#mu{
+    
+    text-decoration:underline;
+    font-weight:bold;
+    font-size: 50px;
+    text-align:center;
+    color:rgb(72, 25, 118);
+    
+}
+#me{
+    
+    text-decoration:underline;
+    font-weight:bold;
+    font-size: 50px;
+    text-align:center;
+    color:rgb(12, 4, 21);
+}
+p{
+    color:black;
+    font-size: 18px;
+    font-style: Lucida Console;
+    text-align:center;
+    text-transform:uppercase;
+
+}
+*{
+    background-color: rgb(247, 122, 147);
+}
+h1{
+    background-image:url(https://c8.alamy.com/comp/G0TDCE/fashion-clothing-store-banner-with-shop-interior-clothing-on-hangers-G0TDCE.jpg);
+    text-align:center;
+    font-size: 60px;
+    height:600px;
+    text-decoration-color: black;
+    text-transform: capitalize;
+    text-decoration-thickness: 5px;
+   /* background-image:('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09HdKdTHuRu5HMfIq8BSryFqKUAtGaxv7OA&s');
+  */ 
+ /*  background-color: rgb(159, 24, 49);*/
+ /*background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbgqKIqFgxilYQkGnuSQB2fsblT2IDQTKtg&s) ;
+ */
+
+}
+img {
+    border: 4px solid rgb(86, 2, 22);
+    border-radius: 10px; 
+    margin: 10px;        
+}
